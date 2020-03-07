@@ -1,2 +1,1 @@
-# latent-customers
 # sudoku-generator
